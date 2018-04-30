@@ -1,0 +1,736 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"program",
+				"programming-exp"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"program_",
+				"program_image"
+			],
+			[
+				"Ca",
+				"Category_id"
+			],
+			[
+				"prog",
+				"program_model"
+			],
+			[
+				"slug",
+				"slug"
+			],
+			[
+				"Body",
+				"Body"
+			],
+			[
+				"item",
+				"item-body"
+			],
+			[
+				"error",
+				"errortxt"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"check",
+				"check_result"
+			],
+			[
+				"remove",
+				"remove-form"
+			],
+			[
+				"api",
+				"api_response_body"
+			],
+			[
+				"or",
+				"order_id"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"O",
+				"ORDERNO"
+			],
+			[
+				"Or",
+				"ORDERTOTAL"
+			],
+			[
+				"saveD",
+				"saveDeliveryDates"
+			],
+			[
+				"recip",
+				"recipients"
+			],
+			[
+				"save",
+				"saveBilling"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"POST",
+				"_POST"
+			],
+			[
+				"rec",
+				"recipients"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"page",
+				"page_menu"
+			],
+			[
+				"flower",
+				"flowers-products"
+			],
+			[
+				"get_user",
+				"get_user_meta"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/Posts.php",
+			"settings":
+			{
+				"buffer_size": 4143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 790,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/Post_model.php",
+			"settings":
+			{
+				"buffer_size": 2784,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/posts/index.php",
+			"settings":
+			{
+				"buffer_size": 746,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/styles.css",
+			"settings":
+			{
+				"buffer_size": 408,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 18450,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp2/htdocs/mySite",
+		"/C/xampp2/htdocs/mySite/application",
+		"/C/xampp2/htdocs/mySite/application/config",
+		"/C/xampp2/htdocs/mySite/application/controllers",
+		"/C/xampp2/htdocs/mySite/application/models",
+		"/C/xampp2/htdocs/mySite/application/views",
+		"/C/xampp2/htdocs/mySite/application/views/posts",
+		"/C/xampp2/htdocs/mySite/application/views/templates",
+		"/C/xampp2/htdocs/mySite/application/views/users",
+		"/C/xampp2/htdocs/mySite/assets",
+		"/C/xampp2/htdocs/mySite/assets/css",
+		"/C/xampp2/htdocs/mySite/assets/images"
+	],
+	"file_history":
+	[
+		"/C/xampp2/htdocs/mySite/application/views/posts/view.php",
+		"/C/xampp2/htdocs/mySite/application/views/posts/index.php",
+		"/C/xampp2/htdocs/mySite/application/config/autoload.php",
+		"/C/xampp2/htdocs/mySite/application/views/templates/header.php",
+		"/C/xampp2/htdocs/mySite/application/controllers/Categories.php",
+		"/C/xampp2/htdocs/mySite/application/views/users/register.php",
+		"/C/xampp2/htdocs/mySite/application/views/users/login.php",
+		"/C/xampp2/htdocs/mySite/application/models/User_model.php",
+		"/C/xampp2/htdocs/mySite/application/controllers/Users.php",
+		"/C/xampp2/htdocs/mySite/application/controllers/Posts.php",
+		"/C/xampp2/htdocs/mySite/application/config/routes.php",
+		"/C/xampp2/htdocs/mySite/application/views/posts/create.php",
+		"/C/xampp2/htdocs/mySite/application/views/posts/edit.php",
+		"/C/xampp2/htdocs/mySite/application/models/Post_model.php",
+		"/C/xampp2/htdocs/mySite/application/views/categories/index.php",
+		"/C/xampp2/htdocs/mySite/application/models/Program_model.php",
+		"/C/xampp2/htdocs/mySite/application/models/Category_model.php",
+		"/C/xampp2/htdocs/mySite/application/views/programs/index.php",
+		"/C/xampp2/htdocs/mySite/application/controllers/Programs.php",
+		"/C/xampp2/htdocs/mySite/application/views/categories/create.php",
+		"/C/xampp2/htdocs/mySite/application/views/programs/edit.php",
+		"/C/xampp2/htdocs/mySite/application/views/programs/view.php",
+		"/C/xampp2/htdocs/mySite/application/views/programs/create.php",
+		"/C/xampp2/htdocs/mySite/assets/css/styles.css",
+		"/C/xampp2/htdocs/mySite/application/views/templates/footer.php",
+		"/C/xampp2/htdocs/mySite/assets/css/style.css",
+		"/C/xampp2/htdocs/mySite/application/config/database.php",
+		"/C/xampp2/htdocs/mySite/application/views/programming-exp/index.php",
+		"/C/xampp2/htdocs/mySite/application/views/pages/home.php",
+		"/C/xampp2/htdocs/mySite/application/views/pages/about.php",
+		"/C/xampp2/htdocs/mySite/application/controllers/Pages.php",
+		"/C/xampp2/htdocs/mySite/application/controllers/Welcome.php",
+		"/C/xampp2/htdocs/mySite/.htaccess",
+		"/C/xampp2/htdocs/mySite/application/config/config.php",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/welcome.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/setSelling.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/setBuying.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/config.xml",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/yourReport.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/emailMyResults.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/js/controllers.js",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/css/ionic.app.css",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/chooseType.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/index.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/js/routes.js",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/order.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/thankyou.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/FlowerShop.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/cart-body.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/multi_delivery.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/single_delivery.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/amp actions/delivery-to-checkout.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/checkout.php",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/choosePrice.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/templates/chooseMileage.html",
+		"/C/Users/ianfo/Documents/Work/CarCurve/ionic/carcurve3/www/js/directives.js",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/doc.txt",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/amp actions/show_order_status.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/amp actions/checkout-to-thankyou.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/amp actions/cart-to-delivery.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/State Lists/recipient-state-list-single.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/State Lists/recipient-state-list-multi.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/State Lists/recipient-state-list-cust.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/amp actions/edit-cart.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/amp actions/remove-from-cart.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/amp actions/add-to-cart.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/php-flower-shop/doc.txt",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/php-flower-shop/php-flower-shop.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/php-flower-shop.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/delivery-to-checkout.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/cart-to-delivery.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/partials/recipient-state-list.php",
+		"/C/Users/ianfo/Documents/Work/Flowers/Plugins/php-flower-shop versions/php-flower-shop/cart-body.php",
+		"/C/Users/ianfo/Documents/Work/Obit/plugins/Remebr Emails Versions/Remebr Emails/Email/details.php",
+		"/C/Users/ianfo/Documents/Work/Obit/plugins/Remebr Emails Versions/Remebr Emails/Email/header.php",
+		"/C/Users/ianfo/Documents/Work/Obit/plugins/Remebr Emails Versions/Remebr Emails/Email/create.php",
+		"/C/Users/ianfo/Documents/Work/Obit/plugins/Remebr Emails Versions/Remebr Emails/RemebrEmail.php",
+		"/C/Users/ianfo/Documents/Work/Obit/plugins/Remebr Emails Versions/Remebr Emails/doc.txt",
+		"/C/Users/ianfo/Documents/ionic/testauth-simpleLogin/src/app/app.component.ts",
+		"/C/Users/ianfo/Documents/ionic/testauth-simpleLogin/src/app/app.module.ts",
+		"/C/Users/ianfo/Documents/ionic/testauth-simpleLogin/src/providers/auth-service/auth-service.ts"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_posts",
+			");\n",
+			"program",
+			"program_model",
+			"program",
+			"pro",
+			"program",
+			"programs",
+			"ID",
+			"Edit",
+			"that ok",
+			"expmi",
+			"email ",
+			"mil",
+			"mill",
+			"timeout",
+			"setbuying",
+			"buying price",
+			"exp",
+			"setbuying",
+			"email me",
+			"setSelling",
+			"eur",
+			"eurika",
+			"loading",
+			"setSelling",
+			"setselling",
+			"setbuying",
+			"setBuying",
+			"setSelling",
+			"scope.milesB",
+			"setBuying",
+			"choosetype",
+			"rootScope.make",
+			"$rootScope.make",
+			"loading",
+			"tostring",
+			"setBuying",
+			"setBu",
+			"choosePrice",
+			"setPrice",
+			"chooseMileage",
+			"spin",
+			"item-input",
+			"single-product-price",
+			"right",
+			"span",
+			"<i ",
+			"main-product",
+			"Remove",
+			"\"submit",
+			"</i>",
+			"fas fa-info-circle",
+			"material-icons",
+			"fas",
+			"wpeng",
+			"-help",
+			"<?php echo $page_menu; ?>",
+			"saveDelivery",
+			"saveDeliveryDates",
+			"main-product",
+			"spin",
+			"spin''",
+			"spinning",
+			"<form",
+			"form",
+			"edit_cart",
+			"cart_edit",
+			"target",
+			"edit_cart",
+			"add",
+			"edit_cart",
+			"method",
+			"form",
+			"$_COOKIE['recipient']",
+			"$_COOKIE[\"customer\"]",
+			"$_COOKIE['recipient']",
+			" ($_COOKIE[\"customer\"]",
+			" $_COOKIE[\"customer\"]",
+			"$_COOKIE",
+			"serialize",
+			"$_COOKIE",
+			"setcookie",
+			"session",
+			"createCart",
+			"form",
+			"href",
+			"form",
+			".php",
+			"'amp'",
+			"1",
+			"data-code",
+			"border",
+			"delivery-table",
+			"add to cart",
+			"view",
+			"$_SESSION['recipient'][0]['recipient']",
+			"$_SESSION[\"customer\"]",
+			"0",
+			"['florist-one-flower-delivery-customer-state']",
+			"product["
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"post_model",
+			"post",
+			"posts",
+			"material-icons",
+			"-help_<?php echo $i; ?>",
+			"json_decode($_COOKIE['recipient'])",
+			"json_decode($_COOKIE[\"customer\"])",
+			"json_decode($_COOKIE['recipient'])",
+			" (json_decode($_COOKIE[\"customer\"])",
+			" json_decode($_COOKIE[\"customer\"])",
+			"json_encode",
+			"COOKIE",
+			"$_SESSION['recipient'][$i]['recipient']",
+			"$_SESSION['recipient'][0]['recipient']",
+			"$i",
+			"[\"customer\"][\"state\"]",
+			"delivery["
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/Posts.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								626,
+								626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 53.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/config/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/models/Post_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2717,
+								2717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/posts/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								687,
+								687
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/config/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								917,
+								894
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "resume.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
